@@ -37,16 +37,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. **Load a document**
    a) Choose between URL or PDF file in the sidebar
    b) For URLs: Enter any webpage addressLimitations
-
-    DialoGPT may occasionally produce generic or repetitive responses
-
-    Processing large documents may take time on CPU
-
-    Web scraping depends on website accessibility and structure
-
-    Better performance requires GPU acceleration
-
-    Accuracy depends on the quality and relevance of the source document
    c)For PDFs: Upload a PDF file from your computer
    d)Click "Load Document"
 4. **Ask questions**
