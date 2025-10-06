@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+sentence-transformers
+streamlit
+transformers
+accelerate
+bitsandbytes
+pypdf
+requests
+chromadb
+streamlit
