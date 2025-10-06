@@ -35,14 +35,14 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 2. **Access the web interface**
     Open your browser and go to http://localhost:8501
 3. **Load a document**
-   a) Choose between URL or PDF file in the sidebar
-   b) For URLs: Enter any webpage addressLimitations
-   c)For PDFs: Upload a PDF file from your computer
-   d)Click "Load Document"
+    a) Choose between URL or PDF file in the sidebar
+    b) For URLs: Enter any webpage addressLimitations
+    c)For PDFs: Upload a PDF file from your computer
+    d)Click "Load Document"
 4. **Ask questions**
-   a) Type your question in the main chat area
-   b) View the AI-generated answer
-   c) Expand "View Source Documents" to see which text chunks were used
+    a) Type your question in the main chat area
+    b) View the AI-generated answer
+    c) Expand "View Source Documents" to see which text chunks were used
 
 ### How it works
     1. Document Loading: The system loads documents from URLs or PDF files using LangChain's document loaders
